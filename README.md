@@ -1,6 +1,10 @@
 # Hanafuda Auto Grow Bot
 
-This project is designed to execute grow actions and track total points from a backend API. It interacts with a remote API to fetch information about available grow actions, execute them, and retrieve the updated **Total Points** after each grow action. The program continuously checks the status of the grow actions and performs them as long as they are available. It also ensures the **Total Points** are updated after each successful execution.
+Link Hanafuda Network : https://hanafuda.hana.network/
+
+Code : TPGOGT
+
+This project is designed to execute grow actions and track total points from a backend API Hanafuda Network. It interacts with a remote API to fetch information about available grow actions, execute them, and retrieve the updated **Total Points** after each grow action. The program continuously checks the status of the grow actions and performs them as long as they are available. It also ensures the **Total Points** are updated after each successful execution.
 
 ## Prerequisites
 
