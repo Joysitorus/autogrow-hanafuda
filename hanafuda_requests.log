@@ -1,8 +1,0 @@
-2024-11-17 11:27:22,902 - INFO - Starting Hanafuda auto-request script with point tracking
-2024-11-17 11:27:22,903 - INFO - Running scheduled grow action task
-2024-11-17 11:29:09,047 - INFO - Starting Hanafuda auto-request script with point tracking
-2024-11-17 11:29:09,047 - INFO - Running scheduled grow action task
-2024-11-17 11:29:09,392 - ERROR - Unexpected error: 'NoneType' object has no attribute 'get'
-2024-11-17 11:33:53,254 - INFO - Starting Hanafuda auto-request script with point tracking
-2024-11-17 11:33:53,254 - INFO - Running scheduled grow action task
-2024-11-17 11:33:53,585 - ERROR - Unexpected error: 'NoneType' object has no attribute 'get'
